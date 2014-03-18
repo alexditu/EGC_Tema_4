@@ -1,0 +1,25 @@
+﻿Build started 12-Jan-14 20:46:17.
+     1>Project "D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 4\Snd\lab_gl_5_student\lab_gl_5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Facultate\ProgramFiles\Visual Studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 4\snd\lab_gl_5_student\lab_mesh_loader.hpp(131): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 4\snd\lab_gl_5_student\lab_mesh_loader.hpp(134): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 4\snd\lab_gl_5_student\main.cpp(92): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 4\snd\lab_gl_5_student\main.cpp(93): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 4\snd\lab_gl_5_student\main.cpp(104): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 4\snd\lab_gl_5_student\main.cpp(105): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 4\snd\lab_gl_5_student\main.cpp(106): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 4\snd\lab_gl_5_student\main.cpp(109): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 4\snd\lab_gl_5_student\main.cpp(110): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 4\snd\lab_gl_5_student\main.cpp(111): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 4\snd\lab_gl_5_student\main.cpp(176): warning C4305: 'initializing' : truncation from 'double' to 'float'
+       Link:
+         D:\Facultate\ProgramFiles\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\lab_gl_5.exe" /INCREMENTAL /NOLOGO /LIBPATH:dependente\freeglut /LIBPATH:dependente\glew opengl32.lib freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\lab_gl_5.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\lab_gl_5.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Square.obj
+         lab_gl_5.vcxproj -> D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 4\Snd\lab_gl_5_student\Debug\lab_gl_5.exe
+     1>Done Building Project "D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 4\Snd\lab_gl_5_student\lab_gl_5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.03
